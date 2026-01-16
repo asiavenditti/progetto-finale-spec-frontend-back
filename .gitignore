@@ -1,4 +1,12 @@
-node_modules
-database
-types.ts
-schema.js
+# Node modules
+node_modules/
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
